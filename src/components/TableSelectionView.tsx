@@ -55,7 +55,7 @@ export default function TableSelectionView({ cart, onBack, onConfirmTable }: Tab
     const whatsappMessage = generateWhatsAppMessage(num);
     
     // Restaurant's WhatsApp number (replace with actual number)
-    const restaurantWhatsApp = '22890000000'; // Replace with restaurant's actual WhatsApp number
+    const restaurantWhatsApp = '22879689386'; // Replace with restaurant's actual WhatsApp number
     
     // Create WhatsApp URL
     const whatsappUrl = `https://wa.me/${restaurantWhatsApp}?text=${whatsappMessage}`;
